@@ -13,7 +13,7 @@ I'm a self-taught Developer that really likes to build useful tools to optimize 
 <br/>
 <br/>
 
-- 🔭 Currently working on a fullstack build with Java backend, using Springtool framework, and React front-end. It simulates an e-commerce website where you can buy cryptocoins.
+- 🔭 Currently working on a fullstack build with Java backend, using Springtool framework, and React.js. It simulates an e-commerce website where you can buy cryptocoins.
 
 - 🌱 Currently learning Java, React and Vite.js, Javascript and Android Studio.
 <!-- - 👯 I’m looking to collaborate on ... -->
