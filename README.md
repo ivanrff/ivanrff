@@ -41,7 +41,6 @@ I'm aspiring to become a Data Scientist that also dabbles into some software/app
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1A3057?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-1A3057?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1A3057?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1A3057?style=flat&logo=git)&nbsp;
 
 ### 📈 &nbsp;GitHub Analytics
 
