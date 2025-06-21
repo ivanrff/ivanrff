@@ -15,7 +15,7 @@ I'm aspiring to become a Data Scientist that also dabbles into some software/app
 
 <!-- - 🔭 Currently working on -->
 
-- 🌱 I am currently learning machine learning and AI development tools like scikit-learn and tensorflow.
+- 🌱 I am currently learning Statistics and Data Science.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
