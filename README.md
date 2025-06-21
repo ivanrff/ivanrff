@@ -21,7 +21,9 @@ I'm aspiring to become a Data Scientist that also dabbles into some software/app
 <!-- - 💬 Ask me about ... -->
 - 📫 Feel free to contact me over on my [LinkedIn](https://www.linkedin.com/in/ivanrff/) or e-mail me at eng.ivanrff@gmail.com ! I'll try to respond as soon as I can.
 
-- ⚙️ I have a mechanical engineering degree. While I was undergrad, I had a class about Introduction to Programming, using C++. It was mostly a basic introduction to coding logic and mathematics. This was my first touch with programming and I had a fun time learning it. Since then I kept messing around with it. Watching video tutorials, reading about it, writing some scripts, until recently, when I made the decision of pursuing a career into the field, specifically in Data Science.
+- ⚙️ I have a mechanical engineering degree. While I was undergrad, I had a class about Introduction to Programming, using C++. It was mostly a basic introduction to coding logic and mathematics. This was my first touch with programming and I had a fun time learning it. Since then I would always mess around with coding, learning something new through video tutorials or reading. I would write some scripts to automate some simple tasks, I even tried making a full-stack application [[1](https://github.com/ivanrff/frontend-crypto-ecommerce), [2](https://github.com/ivanrff/backend-crypto-ecommerce)]!
+
+- 📈 Recently I made the decision of pursuing a career in Data Science, and while there's a lot to learn, I'm getting there.
 
 - 🎮 I love gaming and am a big enjoyer of most branches of the geek culture. 🧙‍♂️
 <br/>
